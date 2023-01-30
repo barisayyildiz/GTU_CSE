@@ -1,0 +1,33 @@
+// Global Variables
+int longest[];
+int longestSize = 0;
+
+function printArr(int[] arr, int n):
+	if n == 0
+		return
+	print "candidate sequence : ["
+	for(i=0; i<n; i++)
+		print arr[i] + ","
+	
+function changeLongest(int[] temp, int tempSize):
+	for(i=0; i<tempSize; i++)
+		longest[i] = temp[i]
+	longestSize = tempSize
+
+function algo(int[] arr, int arrSize, int[] temp, int tempSize, int index):
+	if(index >= arrSize):
+		if(tempSize > longestSize):
+			changeLongest(temp, tempSize)
+		printArr(temp, tempSize)
+		return
+	if(tempSize == 0 or arr[index] > temp[tempSize-1]):
+		temp[tempSize] = arr[index];
+		algo(arr+1, arrSize, temp, tempSize+1, index+1);
+	algo(arr+1, arrSize, temp, tempSize, index+1);
+
+// Driver Code
+int[] arr = [3,10,7,9,4,11]
+int[] temp
+algo(arr, 6, temp, 0, 0)
+print("--------------------")
+printArr(longest, longestSize)
