@@ -4,7 +4,9 @@
 
 ### CSE341 Programming Language
 [Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDCKX3TFZascOYavQCEQw7Lq)
+
 [Lisp Notes](https://github.com/barisayyildiz/lisp-notes)
+
 [Prolog Notes](https://github.com/barisayyildiz/prolog-notes)
 
 ### CSE331 Computer Organization
