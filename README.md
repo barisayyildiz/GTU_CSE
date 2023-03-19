@@ -1,19 +1,37 @@
 # GTU_CSE
 
-### Courses
+## Courses
 
-| Course Id | Course Name                                     | Year | Semester |
-|-----------|-------------------------------------------------|------|----------|
-| 101       | Introduction to Computer Engineering            | 1    | Fall     |
-| 108       | Introduction to Computer Programming Laboratory | 1    | Spring   |
-| 211       | Discrete Mathematics                            | 2    | Fall     |
-| 231       | Circuits and Electronics                        | 2    | Fall     |
-| 233       | Circuits and Electronics Laboratory             | 2    | Fall     |
-| 241       | Object Oriented Programming                     | 2    | Fall     |
-| 222       | Data Structures and Algorithms | 2    | Spring   |
-| 232       | Logic Circuits and Design      | 2    | Spring   |
-| 321       | Introduction to Algorithm Design | 3    | Fall     |
-| 331       | Computer Organization            | 3    | Fall     |
-| 341       | Programming Language             | 3    | Fall     |
+### CSE241/501 Object Oriented Programming
+[Homeworks](https://github.com/barisayyildiz/Oop_Homeworks)
 
+[Notes](https://github.com/barisayyildiz/cpp-notes)
 
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDBPbgkKAlHI3scAqj1saaOH)
+
+### CSE231 Circuits And Electronics
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDAS-y4tDAMOvsJKN-Ms0kmZ)
+
+### CSE222 Data Structures and Algorithms
+[Homeworks](https://github.com/barisayyildiz/Data-Structures-Homeworks)
+
+[Project](https://github.com/barisayyildiz/CSE-222-Term-Project-6)
+
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDD_uc_j7Yi9wATuGIYIl6s7)
+
+### CSE232 Logic Circuits And Design
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDAD8mC_e_pkynR10uf5S5lQ)
+
+### CSE343 Software Engineering
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDDdu3Enn0hXEyZXSEo_6yOH)
+[Project](https://github.com/DBCare)
+
+### CSE341 Programming Language
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDCKX3TFZascOYavQCEQw7Lq)
+
+[Lisp Notes](https://github.com/barisayyildiz/lisp-notes)
+
+[Prolog Notes](https://github.com/barisayyildiz/prolog-notes)
+
+### CSE331 Computer Organization
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDAZ-fuSvXIkLy7Ew3fsWFti)
