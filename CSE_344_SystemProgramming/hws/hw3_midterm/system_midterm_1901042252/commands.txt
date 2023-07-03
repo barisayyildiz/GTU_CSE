@@ -1,0 +1,8 @@
+help
+list
+readF <file> <line #>
+writeT <file> <line #> <string>
+upload <file>
+download <file>
+quit
+killServer

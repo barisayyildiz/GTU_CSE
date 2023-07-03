@@ -35,3 +35,16 @@
 
 ### CSE331 Computer Organization
 [Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDAZ-fuSvXIkLy7Ew3fsWFti)
+
+
+### CSE312 Operating Systems
+[Lectures](https://www.youtube.com/playlist?list=PL4wM0kkhpGDAav1RyuCJB6wSqf0ioPHvw)
+
+
+### CSE331 System Programming
+[Lectures](https://www.youtube.com/playlist?list=PLo1MgimZUSQOaC6b8afKYSq1FZH_uBFTF)
+
+
+### CSE495 Graduation Project 1
+[Application](https://github.com/barisayyildiz/grad-project-backend)
+
